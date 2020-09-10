@@ -20,4 +20,4 @@ to find the repository you are interested in.
 ## Reporting a Issue or Vulnerability
 
 If you find any source code bug, please create a issue in the related repository directly.
-For any other problems or security vulnerabilities, please contact us by [email](SOFAEnclaveSecurity@list.alibaba-inc.com).
+For any other problems or security vulnerabilities, please contact us by [email](mailto:SOFAEnclaveSecurity@list.alibaba-inc.com).
