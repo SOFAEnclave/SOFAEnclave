@@ -9,7 +9,7 @@ the development and deployment of TEE (i.e. Enclave) applications and services i
 SOFAEncave currently includes the following projects：
 - [Occlum](https://github.com/occlum) is a memory-safe, multi-process library OS (LibOS) for Intel SGX.
 - [KubeTEE](https://github.com/SOFAEnclave/KubeTEE) is a collection of TEE development and deployment middleware frameworks and services, making it easy to use TEE within Kubernetes clusters or serverless scenarios.
-- HyperEnclave is a uniform enclave system which not only abstracts various hardware enclaves but also implements virtualization-based enclaves with a type 1.5 hypervisor.
+- [HyperEnclave](https://github.com/HyperEnclave/hyperenclave) is an open and cross-platform trusted execution environment which runs on heterogeneous CPU platforms but decouples its root of trust from CPU vendors.
 
 
 ## Contributing to SOFAEnclave
